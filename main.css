@@ -363,8 +363,7 @@ template {
 .homepage-main {
   margin: 0 auto;
   position: relative;
-  top: 30%;
-  left: 500px;
+  /* top: 30%; */
   font-weight: normal;
   margin: 0 0 10px;
 }
