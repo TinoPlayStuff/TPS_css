@@ -1190,6 +1190,7 @@ template {
     'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;
   color: #000;
   text-decoration: none;
+  width: 200px;
 }
 .annual-block-title.is-dir {
   text-decoration: dotted underline;
@@ -1201,6 +1202,7 @@ template {
     'WenQuanYi Micro Hei', sans-serif;
   margin-right: 30px;
   color: #999999;
+  width: 200px;
 }
 
 .rss-link {
